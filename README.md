@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/iamahmedshaikh_" target="blank"><img src="https://img.shields.io/twitter/follow/iamahmedshaikh_?logo=twitter&style=for-the-badge" alt="as" /></a> </p>
 
-- 💢 **I am Web Developer, Data Analyst, Unity Game Developer, App Developer , a java and C++ expert ✨**
+- 💢 **I am MERN Stack Developer, Junior Data Analyst, , and a java and C++ expert ✨**
 
 - 🌱 **I’m currently learning new technologies**
 
-- 👯 **2023 Goals: Contribute more to Open Source project**
+- 👯 **2024 Goals: Contribute more to Open Source project**
 
-- 🤝 **I ’m looking to collaborate with AI and ML scientist, Data Analysts & Web Developers**
+- 🤝 **I ’m looking to collaborate with Web Developers**
 
 - ⚡ Fun fact **I am a Cricketer and Learner**
 
