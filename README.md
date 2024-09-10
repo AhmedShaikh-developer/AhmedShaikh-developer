@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shaikh</h1>
-<h3 align="center">I'm Software Engineering Student at FAST National University, Pakistan ✨</h3>
+<h3 align="center">I'm Software Engineering, Graduated in 2024 from FAST National University, Pakistan ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedShaikh-developer&label=Profile%20views&color=0e75b6&style=flat" alt="as" /> </p>
 
