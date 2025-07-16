@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shaikh</h1>
-<h3 align="center">I'm Software Engineering, Graduated in 2024 from FAST National University, Pakistan ✨</h3>
+<h3 align="center">I'm Software Engineer, Graduated in 2024 from FAST National University, Pakistan ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedShaikh-developer&label=Profile%20views&color=0e75b6&style=flat" alt="as" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 **I’m currently learning new technologies**
 
-- 👯 **2024 Goals: Contribute more to Open Source project**
+- 👯 **2025 Goals: Contribute more to Open Source project**
 
 - 🤝 **I ’m looking to collaborate with Web Developers**
 
