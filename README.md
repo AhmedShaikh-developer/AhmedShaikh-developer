@@ -112,6 +112,7 @@
 
 ### 🌐 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -120,11 +121,13 @@
 ### 🖥️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 📱 Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🖥️ Desktop Development
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
@@ -132,6 +135,7 @@
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -174,33 +178,3 @@
 ## 📈 Additional GitHub Metrics
 
 ![GitHub Metrics](https://metrics.lecoq.io/AhmedShaikh-developer?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKarachi)
-
-<div align="center">
-  
-  ### 🔧 GitHub Stats Information
-  
-  <details>
-    <summary>📋 About These Dynamic GitHub Stats:</summary>
-    
-    **🔄 Automatic Updates:**
-    - Stats refresh every hour automatically
-    - Real-time contribution tracking
-    - Live language usage statistics
-    - Dynamic commit and activity graphs
-    
-    **📊 What's Included:**
-    - Total repositories and contributions
-    - Programming language breakdown (excluding Jupyter Notebooks)
-    - Commit activity and streaks
-    - Repository statistics and pull requests
-    - Time-based activity patterns
-    
-    **⚡ Performance:**
-    - Fast loading with optimized APIs
-    - Multiple fallback services for reliability
-    - Dark theme for better visibility
-    - Responsive design for all devices
-    
-  </details>
-  
-</div>
