@@ -37,11 +37,11 @@
     <tr>
       <td>
         <strong>🌐 Frontend:</strong><br>
-        React, Angular, HTML5, CSS3, Bootstrap
+        React, NextJS, Angular, HTML5, CSS3, Bootstrap
       </td>
       <td>
         <strong>🖥️ Backend:</strong><br>
-        Node.js, Python, Java, C++, Django, .NET
+        Node.js, Python, Flask, Java, C++, Django, .NET
       </td>
     </tr>
     <tr>
@@ -51,7 +51,7 @@
       </td>
       <td>
         <strong>🗄️ Databases:</strong><br>
-        MySQL, MongoDB, SQL Server, Oracle
+        MySQL, PostgreSQL MongoDB, SQL Server, Oracle
       </td>
     </tr>
     <tr>
@@ -79,10 +79,10 @@
   ### 🎯 Current Focus & Goals
   
   - 🔥 **Currently**: Working on advanced web applications and data analysis projects
-  - 🌱 **Learning**: Cloud technologies, Machine Learning, and advanced automation
+  - 🌱 **Learning**: Machine Learning, and advanced automation
   - 👯 **2025 Goals**: Contribute more to Open Source projects and build innovative solutions
   - 🤝 **Looking for**: Collaborations with Web Developers and Data Scientists
-  - 💬 **Ask me about**: MERN Stack, Python Automation, Desktop Applications with Qt
+  - 💬 **Ask me about**: MERN Stack, Python Automation, AI Tools
   
 </div>
 
@@ -159,7 +159,15 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedShaikh-developer&show_icons=true&theme=dark&hide_border=true&count_private=false&include_all_commits=true&custom_title=Ahmed's%20GitHub%20Stats&hide=stars&cache_seconds=3600)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedShaikh-developer&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=AhmedShaikh-developer&theme=dark&hide_border=true&stroke=58A6FF&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF)
+
+![GitHub Streak Alternative](https://github-readme-streak-stats.herokuapp.com/?user=AhmedShaikh-developer&theme=dark&hide_border=true)
+
+![GitHub Streak Stats](https://github-readme-streak-stats.vercel.app/?user=AhmedShaikh-developer&theme=dark&hide_border=true&stroke=58A6FF&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF)
+
+![GitHub Streak Simple](https://github-readme-streak-stats.vercel.app/?user=AhmedShaikh-developer&theme=dark)
+
+![GitHub Streak Backup](https://github-readme-streak-stats.herokuapp.com/?user=AhmedShaikh-developer&theme=dark&hide_border=true&stroke=58A6FF&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShaikh-developer&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=Jupyter%20Notebook,jupyter%20notebook,ipynb&cache_seconds=3600)
 
